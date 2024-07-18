@@ -29,3 +29,15 @@
 ## How to use our LMS
 
 [Velisa Africa - LMS](https://www.e5code.com/)
+
+1. Things to do in our website.
+
+2. The course can benefit the following groups of people.
+
+- Everyone who wants to learn web development: Whether you're a beginner or looking to expand your skills, this course covers essential topics in web development.
+
+- MERN stack enthusiasts: Those interested in learning the MongoDB, Express, React, and Node.js stack will find this course particularly useful.
+
+- JavaScript programmers: If you want to deepen your understanding of JavaScript and its applications in web development, this course is for you.
+
+- Computer science students: Both current students and recent graduates can benefit from this course. It provides practical skills that complement theoretical knowledge, helping you prepare for job opportunities before graduation and enhancing your current studies.
