@@ -1,5 +1,5 @@
-# Intro
+# MERN Stack Roadmap – How to Learn MERN and Become a Full-Stack Developer
 
-## Video
+![mern stack roadmap]('../images/mern-stack.png)
 
-Lets update this new change and see if this work here.
+1. How you can learn and master the technologies that you can use to build your own full stack projects from scratch?
