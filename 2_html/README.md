@@ -8,7 +8,11 @@
 
 1. Tags - (h1, h2, p, span)
 
-2. Attributes (<p id="demo">This is paragraph</p>)
+2. Attributes
+
+```html
+<p id="demo">This is paragraph</p>
+```
 
 **What is HTML?**
 
@@ -341,6 +345,12 @@ a {
 ### Create basic html page structure for below Projects, Try to use semantic tags as possible. css not required.
 
 Just create the structure of the page.
+
+# Demo
+
+- Just create basic structure for home page (html only)
+
+  [Zerodha homepage](https://zerodha.com/)
 
 # Project -1
 
