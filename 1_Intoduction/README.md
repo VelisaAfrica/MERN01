@@ -30,8 +30,6 @@
 
 [Velisa Africa - LMS](https://www.e5code.com/)
 
-1. Things to do in our website.
-
 2. The course can benefit the following groups of people.
 
 - Everyone who wants to learn web development: Whether you're a beginner or looking to expand your skills, this course covers essential topics in web development.
